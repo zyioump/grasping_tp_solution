@@ -1,0 +1,5 @@
+
+<launch>  
+  <node pkg="grasping_tp" type="detection_node.py" name="detection_node" required="true" />
+  <node pkg="grasping_tp" type="grasping_service" name="grasping_service" required="true" />
+</launch>

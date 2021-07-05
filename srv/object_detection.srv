@@ -1,0 +1,3 @@
+std_msgs/Int64 timer
+---
+grasping_tp/DetectedObj detected_objects

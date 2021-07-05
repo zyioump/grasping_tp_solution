@@ -1,0 +1,5 @@
+ycb_002_master_chef_can
+ycb_003_cracker_box
+ycb_004_sugar_box
+ycb_005_tomato_soup_can
+ycb_006_mustard_bottle
